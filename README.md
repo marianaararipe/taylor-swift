@@ -49,4 +49,4 @@ Mas serviu como base para os projetos mais avançados que desenvolvi depois! �
 ---
 
 ✅ Este repositório faz parte da minha jornada como desenvolvedora em formação.  
-Confira outros projetos em: [meu GitHub]([https://github.com/seu-usuario](https://github.com/marianaararipe))
+Confira outros projetos em: [meu GitHub](https://github.com/marianaararipe)
